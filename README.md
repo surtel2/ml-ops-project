@@ -2,7 +2,7 @@
 
 ## 1. Clone this repo
 ```bash
-git clone https://github.com/letrus2/ml-ops-project-progress.git
+git clone https://github.com/letrus2/ml-ops-project.git
 cd ml-ops-project-progress
 ```
 ## 2. Set up the environment
